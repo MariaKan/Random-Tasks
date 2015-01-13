@@ -51,7 +51,6 @@ int main()
 		{
 			randomize(word, n);
 		}
-
 	}
 	cout << word<<endl;
 
